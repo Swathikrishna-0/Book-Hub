@@ -1,4 +1,4 @@
-## LIVE DEMO :- <a href="">BookHub APP</a>
+## LIVE DEMO :- <a href="https://book-hub-swathi.netlify.app/">BookHub APP</a>
 
 ### Prerequisites
 
@@ -466,5 +466,3 @@ Returns a response containing book details
 > - All components you implement should go in the `src/components` directory.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-#   B o o k - H u b  
- 

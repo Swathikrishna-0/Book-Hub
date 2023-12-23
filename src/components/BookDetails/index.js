@@ -5,7 +5,6 @@ import {BsFillStarFill} from 'react-icons/bs'
 import Header from '../Header'
 import Footer from '../Footer'
 import BookHobThemeContext from '../../context/BookHubThemeContext'
-
 import './index.css'
 
 const apiStatusConstants = {
